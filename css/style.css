@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    font-family: Roboto, sans-serif;
 }
 
 .banner{
@@ -76,8 +77,9 @@
 }
 
 .sobre-resumo{
-    width: 30%
-   text-align: justify;
+    width: 30%;
+    text-align: justify;
+   
 }
 
 .sobre-link{
@@ -88,9 +90,9 @@
  width: 30%;
 }
 
-
 .sobre-lista{
-    margin-top: 50px;
+    margin-top: 20px;
+    padding-left: 20px;
     line-height: 30px;
 }
 
